@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 //*****************************************
-//创建人：
+//创建人：Jay
 //功能说明：MVC模型层
 //***************************************** 
 public abstract class Model

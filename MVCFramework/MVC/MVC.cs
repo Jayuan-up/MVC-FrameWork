@@ -6,7 +6,7 @@ using Unity.Android.Gradle;
 using UnityEngine;
 using UnityEngine.SearchService;
 //*****************************************
-//创建人：
+//创建人：Jay
 //功能说明：MVC统合
 //***************************************** 
 public abstract class MVC 

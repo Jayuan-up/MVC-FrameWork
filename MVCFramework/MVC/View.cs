@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Unity.Android.Types;
 using UnityEngine;
 //*****************************************
-//创建人：
+//创建人：Jay
 //功能说明：MVC视图层抽象类
 //***************************************** 
 public abstract class View : MonoBehaviour
